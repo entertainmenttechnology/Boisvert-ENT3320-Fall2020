@@ -1,0 +1,1014 @@
+﻿Log file open, 10/26/20 18:01:47
+LogInit: Display: Running engine for game: CircleOfSalt
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.694591
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.26-22.01.51:080][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.26-22.01.51:080][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.26-22.01.51:080][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Config/Windows/Engine.ini]
+[2020.10.26-22.01.51:080][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.26-22.01.51:080][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.10.26-22.01.51:080][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.10.26-22.01.51:080][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.10.26-22.01.51:080][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.10.26-22.01.51:080][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.10.26-22.01.51:080][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.10.26-22.01.51:080][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2020.10.26-22.01.51:080][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.10.26-22.01.51:080][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.10.26-22.01.51:080][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.10.26-22.01.51:080][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.10.26-22.01.51:080][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.10.26-22.01.51:080][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.AnisotropicBRDF:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.10.26-22.01.51:081][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Config/Windows/Engine.ini]
+[2020.10.26-22.01.51:082][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Config/Windows/Engine.ini]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Config/Windows/Engine.ini]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.26-22.01.51:082][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Config/Windows/Engine.ini]
+[2020.10.26-22.01.51:082][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Config/Windows/Engine.ini]
+[2020.10.26-22.01.51:086][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.26-22.01.51:086][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.26-22.01.51:087][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.26-22.01.51:087][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.26-22.01.51:087][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.26-22.01.51:088][  0]LogHAL: Display: Platform has ~ 8 GB [8467275776 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.26-22.01.51:088][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.26-22.01.51:088][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.26-22.01.51:088][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.26-22.01.51:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.26-22.01.51:090][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.01.51:090][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.26-22.01.51:090][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.26-22.01.51:090][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-22.01.51:090][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.26-22.01.51:090][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.26-22.01.51:090][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.26-22.01.51:090][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.26-22.01.51:090][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.26-22.01.51:090][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.26-22.01.51:090][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.26-22.01.51:090][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.26-22.01.51:136][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.26-22.01.51:136][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.26-22.01.51:137][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.10.26-22.01.51:137][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Config/Windows/Engine.ini]
+[2020.10.26-22.01.51:137][  0]LogInit: Computer: JARVIS
+[2020.10.26-22.01.51:137][  0]LogInit: User: twine
+[2020.10.26-22.01.51:137][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.10.26-22.01.51:137][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.26-22.01.51:137][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.10.26-22.01.51:137][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.26-22.01.51:137][  0]LogMemory: Process Physical Memory: 114.38 MB used, 114.38 MB peak
+[2020.10.26-22.01.51:137][  0]LogMemory: Process Virtual Memory: 95.95 MB used, 95.95 MB peak
+[2020.10.26-22.01.51:137][  0]LogMemory: Physical Memory: 5277.27 MB used,  2797.76 MB free, 8075.02 MB total
+[2020.10.26-22.01.51:137][  0]LogMemory: Virtual Memory: 5143.16 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.10.26-22.01.51:145][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.10.26-22.01.51:977][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.10.26-22.01.51:978][  0]LogInit: Using OS detected language (en-US).
+[2020.10.26-22.01.51:978][  0]LogInit: Using OS detected locale (en-US).
+[2020.10.26-22.01.51:982][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.10.26-22.01.52:339][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.26-22.01.52:584][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.26-22.01.52:584][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.26-22.01.57:128][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.26-22.01.57:128][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.10.26-22.01.57:128][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.10.26-22.01.57:128][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.26-22.01.57:202][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2020.10.26-22.01.57:202][  0]LogD3D11RHI:       128/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.10.26-22.01.57:206][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.26-22.01.57:206][  0]LogD3D11RHI:       0/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.26-22.01.57:206][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.26-22.01.57:211][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.26-22.01.57:211][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.26-22.01.57:211][  0]LogWindows: EnumDisplayDevices:
+[2020.10.26-22.01.57:211][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2020.10.26-22.01.57:212][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.10.26-22.01.57:212][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.10.26-22.01.57:212][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.10.26-22.01.57:212][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2020.10.26-22.01.57:212][  0]LogD3D11RHI:   Driver Version: 26.20.100.7325 (internal:26.20.100.7325, unified:26.20.100.7325)
+[2020.10.26-22.01.57:212][  0]LogD3D11RHI:      Driver Date: 10-7-2019
+[2020.10.26-22.01.57:212][  0]LogRHI: Texture pool is 1502 MB (70% of 2146 MB)
+[2020.10.26-22.01.57:457][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.10.26-22.01.57:458][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2020.10.26-22.01.57:458][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.26-22.01.57:458][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.10.26-22.01.57:466][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.10.26-22.01.57:839][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.10.26-22.01.57:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.10.26-22.01.57:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.10.26-22.01.57:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.10.26-22.01.57:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.10.26-22.01.57:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.10.26-22.01.57:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.26-22.01.57:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.10.26-22.01.57:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.26-22.01.57:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.10.26-22.01.57:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.10.26-22.01.57:898][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.10.26-22.01.57:898][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.10.26-22.01.57:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.10.26-22.01.57:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.26-22.01.57:938][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.10.26-22.01.57:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.10.26-22.01.57:958][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.10.26-22.01.57:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.10.26-22.01.57:979][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.10.26-22.01.58:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.10.26-22.01.58:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.10.26-22.01.58:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.10.26-22.01.58:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.10.26-22.01.58:038][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.26-22.01.58:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.10.26-22.01.58:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.10.26-22.01.58:066][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.10.26-22.01.58:066][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.26-22.01.58:167][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.26-22.01.58:273][  0]LogShaderCompilers: Guid format shader working directory is -55 characters bigger than the processId version (../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Intermediate/Shaders/WorkingDirectory/13664/).
+[2020.10.26-22.01.58:273][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/twine/AppData/Local/Temp/UnrealShaderWorkingDir/79C055C54301C4E5BC60C2B48B2A373E/'.
+[2020.10.26-22.01.58:274][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.26-22.01.58:274][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.26-22.01.58:274][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.26-22.02.02:596][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.26-22.02.02:659][  0]LogDerivedDataCache: Loaded boot cache 0.06s 76MB C:/Users/twine/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.26-22.02.02:659][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/twine/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.10.26-22.02.02:670][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.26-22.02.02:671][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.26-22.02.02:671][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.26-22.02.02:671][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.26-22.02.02:692][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.26-22.02.02:692][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.26-22.02.02:692][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.26-22.02.02:693][  0]LogDerivedDataCache: Using Local data cache path C:/Users/twine/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.26-22.02.02:693][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.26-22.02.02:693][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.26-22.02.02:750][  0]LogSlate: Using FreeType 2.10.0
+[2020.10.26-22.02.02:766][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.26-22.02.02:797][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2020.10.26-22.02.03:102][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.26-22.02.03:319][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.26-22.02.03:319][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.26-22.02.03:319][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.26-22.02.03:319][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.26-22.02.03:319][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.26-22.02.03:365][  0]LogNetVersion: CircleOfSalt 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2736225797)
+[2020.10.26-22.02.05:193][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000002150AA92980), frame # 0
+[2020.10.26-22.02.05:193][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002150A938400), frame # 0
+[2020.10.26-22.02.05:195][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002150A94DC00), frame # 0
+[2020.10.26-22.02.05:517][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.303624 seconds
+[2020.10.26-22.02.05:522][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.10.26-22.02.05:522][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.10.26-22.02.05:522][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.26-22.02.06:242][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.26-22.02.06:247][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.26-22.02.06:406][  0]SourceControl: Source control is disabled
+[2020.10.26-22.02.07:268][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.26-22.02.07:288][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.26-22.02.07:288][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.26-22.02.07:368][  0]LogOcInput: OculusInput pre-init called
+[2020.10.26-22.02.07:380][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.10.26-22.02.07:381][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.10.26-22.02.07:466][  0]LogEngine: Initializing Engine...
+[2020.10.26-22.02.07:467][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.26-22.02.07:467][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.10.26-22.02.07:469][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.10.26-22.02.07:879][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.26-22.02.07:889][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.26-22.02.07:889][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002150E7EFC00), frame # 0
+[2020.10.26-22.02.07:889][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002150E85D800), frame # 0
+[2020.10.26-22.02.08:006][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.26-22.02.08:007][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.26-22.02.08:007][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.26-22.02.08:007][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.26-22.02.08:007][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.26-22.02.08:007][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.26-22.02.08:007][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.26-22.02.08:007][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.26-22.02.08:007][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.26-22.02.08:007][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.26-22.02.08:032][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.26-22.02.08:032][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.10.26-22.02.08:076][  0]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2020.10.26-22.02.08:079][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.26-22.02.08:105][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.26-22.02.08:105][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.26-22.02.08:106][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.26-22.02.08:107][  0]LogInit: FAudioDevice initialized.
+[2020.10.26-22.02.08:107][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.26-22.02.08:302][  0]LogDerivedDataCache: Saved boot cache 0.20s 76MB C:/Users/twine/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.26-22.02.08:306][  0]LogInit: Texture streaming: Enabled
+[2020.10.26-22.02.08:323][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.26-22.02.08:323][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.10.26-22.02.08:324][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.10.26-22.02.08:409][  0]LogInit: Transaction tracking system initialized
+[2020.10.26-22.02.08:427][  0]BlueprintLog: New page: Editor Load
+[2020.10.26-22.02.08:518][  0]LocalizationService: Localization service is disabled
+[2020.10.26-22.02.09:413][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.26-22.02.09:413][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.26-22.02.09:760][  0]LogFileCache: Scanning file cache for directory 'C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Content/' took 0.04s
+[2020.10.26-22.02.10:022][  0]LogUnrealEdMisc: Loading editor; pre map load, took 30.458
+[2020.10.26-22.02.10:105][  0]LightingResults: New page: Lighting Build
+[2020.10.26-22.02.10:106][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.02.10:106][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.02.10:106][  0]MapCheck: New page: Map Check
+[2020.10.26-22.02.10:106][  0]LightingResults: New page: Lighting Build
+[2020.10.26-22.02.10:122][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002150E7EFC00), frame # 0
+[2020.10.26-22.02.10:122][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002150E85D800), frame # 0
+[2020.10.26-22.02.10:123][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.10.26-22.02.14:225][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.26-22.02.14:225][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021504001400), frame # 0
+[2020.10.26-22.02.14:225][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002150401D6C0), frame # 0
+[2020.10.26-22.02.14:552][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.26-22.02.14:604][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.10.26-22.02.14:605][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.26-22.02.14:605][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.189ms to complete.
+[2020.10.26-22.02.14:605][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 4.583
+[2020.10.26-22.02.14:631][  0]LogUnrealEdMisc: Total Editor Startup Time, took 35.067
+[2020.10.26-22.02.15:964][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.02.16:010][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.02.16:018][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.02.16:030][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.02.16:344][  0]LogCollectionManager: Loaded 0 collections in 0.006671 seconds
+[2020.10.26-22.02.16:692][  0]LogFileCache: Scanning file cache for directory 'C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Collections/' took 0.00s
+[2020.10.26-22.02.16:692][  0]LogFileCache: Scanning file cache for directory 'C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Content/Developers/twine/Collections/' took 0.00s
+[2020.10.26-22.02.16:692][  0]LogFileCache: Scanning file cache for directory 'C:/Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Content/Collections/' took 0.00s
+[2020.10.26-22.02.16:692][  0]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 3427 classes and 821 folders.
+[2020.10.26-22.02.16:837][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.26-22.02.22:827][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.10.26-22.02.22:992][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2020.10.26-22.02.23:913][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.26-22.02.23:913][  0]LogLoad: (Engine Initialization) Total time: 44.35 seconds
+[2020.10.26-22.02.23:913][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.26-22.02.24:081][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.26-22.02.24:142][  0]LogSlate: Took 0.060936 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.26-22.02.24:156][  0]LogSlate: Took 0.009877 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.26-22.02.24:224][  0]LogSlate: Took 0.057337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.26-22.02.25:097][  0]LogRenderer: Reallocating scene render targets to support 368x420 Format 10 NumSamples 1 (Frame:1).
+[2020.10.26-22.02.25:097][  0]LogSlate: Took 0.125715 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.26-22.02.26:148][  1]LogAssetRegistry: Asset discovery search completed in 23.3520 seconds
+[2020.10.26-22.02.26:154][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2020.10.26-22.02.58:355][458]LogRenderer: Reallocating scene render targets to support 372x420 Format 10 NumSamples 1 (Frame:430).
+[2020.10.26-22.02.58:491][459]LogRenderer: Reallocating scene render targets to support 384x420 Format 10 NumSamples 1 (Frame:432).
+[2020.10.26-22.02.58:550][460]LogRenderer: Reallocating scene render targets to support 424x420 Format 10 NumSamples 1 (Frame:434).
+[2020.10.26-22.02.59:100][461]LogRenderer: Reallocating scene render targets to support 436x420 Format 10 NumSamples 1 (Frame:436).
+[2020.10.26-22.02.59:150][462]LogRenderer: Reallocating scene render targets to support 440x420 Format 10 NumSamples 1 (Frame:438).
+[2020.10.26-22.03.10:962][ 49]LogRenderer: Reallocating scene render targets to support 1168x432 Format 10 NumSamples 1 (Frame:880).
+[2020.10.26-22.03.35:305][819]Cmd: SELECT NONE
+[2020.10.26-22.04.28:944][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.26-22.05.27:639][  9]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.10.26-22.05.39:549][424]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.26-22.05.39:601][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.26-22.05.39:673][424]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 26, 2020, 2:05:39 PM)
+[2020.10.26-22.05.39:696][424]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.10.26-22.05.39:732][424]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.10.26-22.05.39:732][424]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.26-22.05.39:818][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086882s)
+[2020.10.26-22.05.39:839][424]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.26-22.05.39:839][424]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002159312E400), frame # 3424
+[2020.10.26-22.05.39:839][424]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021503C8FB00), frame # 3424
+[2020.10.26-22.05.39:839][424]LogPlayLevel: PIE: World Init took: (0.020778s)
+[2020.10.26-22.05.39:856][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.124276s)
+[2020.10.26-22.05.39:867][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.10.26-22.05.39:871][424]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.26-22.05.39:871][424]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.26-22.05.39:871][424]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.26-22.05.39:871][424]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.26-22.05.39:871][424]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.26-22.05.39:871][424]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.26-22.05.39:871][424]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.26-22.05.39:871][424]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.26-22.05.39:871][424]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.26-22.05.39:871][424]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.26-22.05.39:877][424]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.26-22.05.39:877][424]LogAudioMixer: Display: 1: FrontRight
+[2020.10.26-22.05.39:898][424]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2020.10.26-22.05.39:898][424]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.26-22.05.39:898][424]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.26-22.05.39:898][424]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.26-22.05.39:899][424]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.26-22.05.39:914][424]LogInit: FAudioDevice initialized.
+[2020.10.26-22.05.40:147][424]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.26-22.05.40:206][424]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.10.26-18.05.40
+[2020.10.26-22.05.40:348][424]LogWorld: Bringing up level for play took: 0.163943
+[2020.10.26-22.05.40:348][424]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.10.26-22.05.40:451][424]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.10.26-22.05.40:533][424]PIE: Server logged in
+[2020.10.26-22.05.40:534][424]PIE: Play in editor total start time 0.961 seconds.
+[2020.10.26-22.06.18:848][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.06.18:849][138]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.26-22.06.18:850][138]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.06.18:868][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.06.18:913][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.26-22.06.18:941][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.06.18:974][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.06.18:974][138]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021503C8FB00), frame # 5138
+[2020.10.26-22.06.18:974][138]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002159312E400), frame # 5138
+[2020.10.26-22.06.18:976][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.10.26-22.06.19:058][139]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.10.26-22.06.24:601][295]LogSlate: Took 0.000365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.26-22.06.24:659][295]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CircleOfSalt/AI/NPC/NPC.NPC
+[2020.10.26-22.06.26:444][295]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 125 classes and 0 folders.
+[2020.10.26-22.06.29:603][295]LogSlate: Took 0.035200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.26-22.06.48:195][728]LogSlate: Took 0.033831 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.26-22.07.03:062][ 29]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CircleOfSalt/AI/NPC/NPC_AI.NPC_AI
+[2020.10.26-22.07.40:706][ 54]BlueprintLog: New page: Compile NPC_AI
+[2020.10.26-22.07.40:817][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.10.26-22.07.41:091][ 54]LogSlate: Took 0.027886 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.26-22.07.54:155][434]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CircleOfSalt/AI/NPC/FindPathPoint.FindPathPoint
+[2020.10.26-22.10.19:937][884]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/CircleOfSalt/AI/NPC/NPC_BB.NPC_BB
+[2020.10.26-22.13.03:585][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.10.26-22.13.03:587][409]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.036
+[2020.10.26-22.13.03:683][409]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CircleOfSalt/AI/NPC/NPC_AI] ([1] browsable assets)...
+[2020.10.26-22.13.03:683][409]OBJ SavePackage: Finished generating thumbnails for package [/Game/CircleOfSalt/AI/NPC/NPC_AI]
+[2020.10.26-22.13.05:119][409]LogSavePackage: Moving '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/NPC_AI_Auto149BD3C4A41DBEE1729A637B537B1A6A5.tmp' to '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Autosaves/Game/CircleOfSalt/AI/NPC/NPC_AI_Auto1.uasset'
+[2020.10.26-22.13.05:179][409]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CircleOfSalt/AI/NPC/FindPathPoint] ([1] browsable assets)...
+[2020.10.26-22.13.05:180][409]OBJ SavePackage: Finished generating thumbnails for package [/Game/CircleOfSalt/AI/NPC/FindPathPoint]
+[2020.10.26-22.13.05:280][409]LogSavePackage: Moving '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/FindPathPoint_Auto1F00B169B47187642CF065ABBBAEC4C0E.tmp' to '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Autosaves/Game/CircleOfSalt/AI/NPC/FindPathPoint_Auto1.uasset'
+[2020.10.26-22.13.05:281][409]LogFileHelpers: Auto-saving content packages took 1.694
+[2020.10.26-22.54.46:573][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.10.26-22.54.46:577][821]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.060
+[2020.10.26-22.54.46:577][821]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CircleOfSalt/AI/NPC/FindPathPoint] ([1] browsable assets)...
+[2020.10.26-22.54.46:577][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/CircleOfSalt/AI/NPC/FindPathPoint]
+[2020.10.26-22.54.46:617][821]LogSavePackage: Moving '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/FindPathPoint_Auto26290708F4C1C8513B9176C9D070B392A.tmp' to '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Autosaves/Game/CircleOfSalt/AI/NPC/FindPathPoint_Auto2.uasset'
+[2020.10.26-22.54.46:618][821]LogFileHelpers: Auto-saving content packages took 0.042
+[2020.10.27-00.03.47:430][199]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.10.27-00.03.47:498][199]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.211
+[2020.10.27-00.03.47:500][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CircleOfSalt/AI/NPC/FindPathPoint] ([1] browsable assets)...
+[2020.10.27-00.03.47:500][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/CircleOfSalt/AI/NPC/FindPathPoint]
+[2020.10.27-00.03.47:643][199]LogSavePackage: Moving '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/FindPathPoint_Auto35D9A89374A22761E81575A937EF1BBFD.tmp' to '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Autosaves/Game/CircleOfSalt/AI/NPC/FindPathPoint_Auto3.uasset'
+[2020.10.27-00.03.47:645][199]LogFileHelpers: Auto-saving content packages took 0.146
+[2020.10.27-00.06.47:468][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2020.10.27-00.10.52:902][318]LogEditorTransaction: Undo Move Node
+[2020.10.27-00.10.54:254][318]LogEditorTransaction: Undo Move Node
+[2020.10.27-00.10.55:101][341]LogEditorTransaction: Undo Create Pin Link
+[2020.10.27-00.10.55:822][364]LogEditorTransaction: Undo Create Pin Link
+[2020.10.27-00.10.56:888][398]LogEditorTransaction: Undo Move Node
+[2020.10.27-00.10.57:559][420]LogEditorTransaction: Undo Move Node
+[2020.10.27-00.10.58:327][444]LogEditorTransaction: Undo Move Node
+[2020.10.27-00.11.04:192][629]LogEditorTransaction: Undo Move Node
+[2020.10.27-00.11.31:094][126]BlueprintLog: New page: Compile FindPathPoint
+[2020.10.27-00.11.31:634][126]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.10.27-00.13.47:945][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.10.27-00.13.47:948][156]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.046
+[2020.10.27-00.13.47:949][156]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CircleOfSalt/AI/NPC/FindPathPoint] ([1] browsable assets)...
+[2020.10.27-00.13.47:949][156]OBJ SavePackage: Finished generating thumbnails for package [/Game/CircleOfSalt/AI/NPC/FindPathPoint]
+[2020.10.27-00.13.47:986][156]LogSavePackage: Moving '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/FindPathPoint_Auto42D1A56694B395FE61A741E8DF1D829E3.tmp' to '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Autosaves/Game/CircleOfSalt/AI/NPC/FindPathPoint_Auto4.uasset'
+[2020.10.27-00.13.47:987][156]LogFileHelpers: Auto-saving content packages took 0.038
+[2020.10.27-00.35.28:887][153]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{56aaa3e5-7dc9-4af5-bab2-dee75fb7ca17}.
+[2020.10.27-00.35.28:887][153]LogTemp: Resetting audio stream to device id 
+[2020.10.27-00.35.29:183][153]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-00.35.29:183][153]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-00.35.37:045][176]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.10.27-00.35.37:853][178]LogTemp: Resetting audio stream to device id 
+[2020.10.27-00.35.37:875][178]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-00.35.37:875][178]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-03.35.57:467][227]LogTemp: Resetting audio stream to device id 
+[2020.10.27-03.35.57:703][227]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-03.35.57:703][227]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-03.35.58:778][228]LogTemp: Resetting audio stream to device id 
+[2020.10.27-03.35.59:270][228]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-03.35.59:270][228]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-03.35.59:349][229]LogHttp: Warning: 00000215C1118800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAD7C27C-47A1-1C04-C7C4-6583A33B92B4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=24de21da41df947ee70b13b00551c946%7C5c4f6b0e8b9e4ccab578447287fd8382%7Cdfb0ebd7-b1d7-49dd-83fb-bbecdbd029e5&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.10.27-03.35.59:350][229]LogHttp: Warning: 00000215C1118800: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.10.27-03.35.59:350][229]LogHttp: Warning: 00000215C1118800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215664dff70 [can pipeline])
+[2020.10.27-03.35.59:350][229]LogHttp: Warning: 00000215C1118800: libcurl info message cache 1 (Re-using existing connection! (#56) with host datarouter.ol.epicgames.com)
+[2020.10.27-03.35.59:350][229]LogHttp: Warning: 00000215C1118800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.4.198.191) port 443 (#56))
+[2020.10.27-03.35.59:350][229]LogHttp: Warning: 00000215C1118800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.10.27-03.35.59:350][229]LogHttp: Warning: 00000215C1118800: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.10.27-03.35.59:350][229]LogHttp: Warning: 00000215C1118800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.10.27-03.35.59:350][229]LogHttp: Warning: 00000215C1118800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.10.27-03.35.59:350][229]LogHttp: Warning: 00000215C1118800: libcurl info message cache 7 (Closing connection 56)
+[2020.10.27-03.35.59:362][230]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAD7C27C-47A1-1C04-C7C4-6583A33B92B4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=24de21da41df947ee70b13b00551c946%7C5c4f6b0e8b9e4ccab578447287fd8382%7Cdfb0ebd7-b1d7-49dd-83fb-bbecdbd029e5&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.10.27-20.08.37:467][277]LogTemp: Resetting audio stream to device id 
+[2020.10.27-20.08.49:099][277]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-20.08.49:099][277]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-20.08.50:082][278]LogTemp: Resetting audio stream to device id 
+[2020.10.27-20.08.50:113][278]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-20.08.50:113][278]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-20.18.06:107][907]LogTemp: Resetting audio stream to device id 
+[2020.10.27-20.18.06:247][907]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-20.18.06:247][907]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-23.18.20:525][953]LogHttp: Warning: 00000215B860EB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAD7C27C-47A1-1C04-C7C4-6583A33B92B4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=24de21da41df947ee70b13b00551c946%7C5c4f6b0e8b9e4ccab578447287fd8382%7Cdfb0ebd7-b1d7-49dd-83fb-bbecdbd029e5&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.10.27-23.18.20:525][953]LogHttp: Warning: 00000215B860EB00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.10.27-23.18.20:525][953]LogHttp: Warning: 00000215B860EB00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x215664dff70 [can pipeline])
+[2020.10.27-23.18.20:525][953]LogHttp: Warning: 00000215B860EB00: libcurl info message cache 1 (Re-using existing connection! (#60) with host datarouter.ol.epicgames.com)
+[2020.10.27-23.18.20:525][953]LogHttp: Warning: 00000215B860EB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.54.218.62) port 443 (#60))
+[2020.10.27-23.18.20:526][953]LogHttp: Warning: 00000215B860EB00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.10.27-23.18.20:526][953]LogHttp: Warning: 00000215B860EB00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.10.27-23.18.20:526][953]LogHttp: Warning: 00000215B860EB00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.10.27-23.18.20:526][953]LogHttp: Warning: 00000215B860EB00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.10.27-23.18.20:526][953]LogHttp: Warning: 00000215B860EB00: libcurl info message cache 7 (Closing connection 60)
+[2020.10.27-23.18.20:856][954]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAD7C27C-47A1-1C04-C7C4-6583A33B92B4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=24de21da41df947ee70b13b00551c946%7C5c4f6b0e8b9e4ccab578447287fd8382%7Cdfb0ebd7-b1d7-49dd-83fb-bbecdbd029e5&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.10.28-17.37.00:326][ 26]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{c53c95d5-770b-4af1-97f5-ee21a0e3ee98}.
+[2020.10.28-17.37.00:326][ 26]LogTemp: Resetting audio stream to device id 
+[2020.10.28-17.37.00:666][ 26]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-17.37.00:666][ 26]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-17.37.01:075][ 28]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{c53c95d5-770b-4af1-97f5-ee21a0e3ee98}.
+[2020.10.28-17.37.01:075][ 28]LogTemp: Resetting audio stream to device id 
+[2020.10.28-17.37.02:166][ 28]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-17.37.02:166][ 28]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-17.37.02:232][ 29]LogTemp: Resetting audio stream to device id 
+[2020.10.28-17.37.02:420][ 29]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-17.37.02:420][ 29]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-17.41.59:546][207]LogEditorTransaction: Undo Move Node
+[2020.10.28-17.42.02:230][257]LogEditorTransaction: Undo Create Pin Link
+[2020.10.28-17.46.24:656][226]LogEditorTransaction: Undo Move Node
+[2020.10.28-17.46.25:508][253]LogEditorTransaction: Undo Create Pin Link
+[2020.10.28-17.49.17:720][992]BlueprintLog: New page: Compile FindPathPoint
+[2020.10.28-17.49.20:492][992]LogUObjectHash: Compacting FUObjectHashTables data took  53.51ms
+[2020.10.28-17.49.50:326][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.10.28-17.49.50:355][ 79]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.156
+[2020.10.28-17.49.50:430][ 79]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CircleOfSalt/AI/NPC/FindPathPoint] ([1] browsable assets)...
+[2020.10.28-17.49.50:431][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/CircleOfSalt/AI/NPC/FindPathPoint]
+[2020.10.28-17.49.51:883][ 79]LogSavePackage: Moving '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/FindPathPoint_Auto56DE61A824C4F9E597F59ACB1C6BA66C0.tmp' to '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Autosaves/Game/CircleOfSalt/AI/NPC/FindPathPoint_Auto5.uasset'
+[2020.10.28-17.49.52:137][ 79]LogFileHelpers: Auto-saving content packages took 1.763
+[2020.10.28-17.50.30:173][828]BlueprintLog: New page: Compile FindPathPoint
+[2020.10.28-17.50.30:437][828]LogUObjectHash: Compacting FUObjectHashTables data took   7.55ms
+[2020.10.28-17.51.04:618][993]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/CircleOfSalt/AI/NPC/NPC_BT.NPC_BT
+[2020.10.28-17.54.33:879][583]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.28-17.54.33:879][583]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CircleOfSalt/AI/NPC/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2020.10.28-17.54.41:278][583]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/CircleOfSalt/AI/NPC/BTTask_BlueprintBase_New.
+[2020.10.28-17.55.14:975][227]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.10.28-17.55.15:074][227]LogMetaData: Removing '/Game/CircleOfSalt/AI/NPC/Increment.SKEL_Increment_C' ref from Metadata '/Game/CircleOfSalt/AI/NPC/BTTask_BlueprintBase_New.PackageMetaData'
+[2020.10.28-17.55.15:074][227]LogMetaData: Removing '/Game/CircleOfSalt/AI/NPC/Increment.Increment_C' ref from Metadata '/Game/CircleOfSalt/AI/NPC/BTTask_BlueprintBase_New.PackageMetaData'
+[2020.10.28-17.55.15:589][227]LogSavePackage: Moving '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/IncrementD4B710324623EAB3354AD18D8A9B5614.tmp' to '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Content/CircleOfSalt/AI/NPC/Increment.uasset'
+[2020.10.28-17.55.19:670][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.10.28-17.55.19:783][227]LogUObjectHash: Compacting FUObjectHashTables data took  77.65ms
+[2020.10.28-17.55.19:842][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.10.28-17.55.24:286][227]LogLinker: Warning: Failed to load '/Game/CircleOfSalt/AI/NPC/BTTask_BlueprintBase_New': Can't find file.
+[2020.10.28-17.55.24:286][227]LogLinker: Warning: Failed to load '/Game/CircleOfSalt/AI/NPC/BTTask_BlueprintBase_New': Can't find file.
+[2020.10.28-17.55.24:287][227]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CircleOfSalt/AI/NPC/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New'
+[2020.10.28-17.55.24:498][227]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/CircleOfSalt/AI/NPC/Increment.
+[2020.10.28-17.55.24:632][227]AssetCheck: New page: Asset Save: Increment
+[2020.10.28-17.55.24:632][227]LogContentValidation: Display: Validating Blueprint /Game/CircleOfSalt/AI/NPC/Increment.Increment
+[2020.10.28-17.55.44:611][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.10.28-17.55.44:618][916]LogMetaData: Removing '/Game/CircleOfSalt/AI/NPC/IncrementPath.IncrementPath_C' ref from Metadata '/Game/CircleOfSalt/AI/NPC/Increment.PackageMetaData'
+[2020.10.28-17.55.44:618][916]LogMetaData: Removing '/Game/CircleOfSalt/AI/NPC/IncrementPath.SKEL_IncrementPath_C' ref from Metadata '/Game/CircleOfSalt/AI/NPC/Increment.PackageMetaData'
+[2020.10.28-17.55.44:683][916]LogSavePackage: Moving '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/IncrementPath21BA796046786B1FCDAF92934982F5B5.tmp' to '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Content/CircleOfSalt/AI/NPC/IncrementPath.uasset'
+[2020.10.28-17.55.45:614][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.10.28-17.55.45:680][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.10.28-17.55.45:731][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.10.28-17.55.46:064][916]SourceControl: rm 'CircleOfSalt/Content/CircleOfSalt/AI/NPC/Increment.uasset'
+[2020.10.28-17.55.46:115][916]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/CircleOfSalt/AI/NPC/IncrementPath.
+[2020.10.28-17.55.46:151][916]AssetCheck: New page: Asset Save: IncrementPath
+[2020.10.28-17.55.46:151][916]LogContentValidation: Display: Validating Blueprint /Game/CircleOfSalt/AI/NPC/IncrementPath.IncrementPath
+[2020.10.28-17.57.41:906][373]LogSlate: Took 0.302998 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.10.28-17.58.58:255][730]LogSlate: Window 'Delete Variable' being destroyed
+[2020.10.28-18.02.24:724][747]BlueprintLog: New page: Compile IncrementPath
+[2020.10.28-18.02.25:189][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.10.28-18.05.01:384][728]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.10.28-18.05.01:386][728]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.038
+[2020.10.28-18.05.01:386][728]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CircleOfSalt/AI/NPC/NPC_AI] ([1] browsable assets)...
+[2020.10.28-18.05.01:386][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/CircleOfSalt/AI/NPC/NPC_AI]
+[2020.10.28-18.05.01:875][728]LogSavePackage: Moving '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/NPC_AI_Auto6683410E0418B241086B536BAE60DCD19.tmp' to '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Autosaves/Game/CircleOfSalt/AI/NPC/NPC_AI_Auto6.uasset'
+[2020.10.28-18.05.01:878][728]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CircleOfSalt/AI/NPC/NPC_BT] ([1] browsable assets)...
+[2020.10.28-18.05.01:878][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/CircleOfSalt/AI/NPC/NPC_BT]
+[2020.10.28-18.05.02:070][728]LogSavePackage: Moving '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/NPC_BT_Auto61F1F302F497B59EE411C0CBC5A9D8319.tmp' to '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Autosaves/Game/CircleOfSalt/AI/NPC/NPC_BT_Auto6.uasset'
+[2020.10.28-18.05.02:084][728]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CircleOfSalt/AI/NPC/FindPathPoint] ([1] browsable assets)...
+[2020.10.28-18.05.02:084][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/CircleOfSalt/AI/NPC/FindPathPoint]
+[2020.10.28-18.05.02:339][728]LogSavePackage: Moving '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/FindPathPoint_Auto67F60C3C64D3E7FA29E9F958DA7599A0D.tmp' to '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Autosaves/Game/CircleOfSalt/AI/NPC/FindPathPoint_Auto6.uasset'
+[2020.10.28-18.05.02:341][728]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CircleOfSalt/AI/NPC/IncrementPath] ([1] browsable assets)...
+[2020.10.28-18.05.02:341][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/CircleOfSalt/AI/NPC/IncrementPath]
+[2020.10.28-18.05.02:735][728]LogSavePackage: Moving '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/IncrementPath_Auto6228B48F3420B7A7376DBDC9818C15FE0.tmp' to '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Autosaves/Game/CircleOfSalt/AI/NPC/IncrementPath_Auto6.uasset'
+[2020.10.28-18.05.02:737][728]LogFileHelpers: Auto-saving content packages took 1.351
+[2020.10.28-18.15.07:639][651]BlueprintLog: New page: Compile IncrementPath
+[2020.10.28-18.15.07:695][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.10.28-18.15.50:666][712]LogSavePackage: Moving '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/NPC_BTEEE0958C43E8149F5EF1768DAD1A864F.tmp' to '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Content/CircleOfSalt/AI/NPC/NPC_BT.uasset'
+[2020.10.28-18.15.50:876][712]AssetCheck: New page: Asset Save: NPC_BT
+[2020.10.28-18.15.50:876][712]LogContentValidation: Display: Validating BehaviorTree /Game/CircleOfSalt/AI/NPC/NPC_BT.NPC_BT
+[2020.10.28-18.16.14:560][707]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.10.28-18.16.14:563][707]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.077
+[2020.10.28-18.16.14:563][707]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CircleOfSalt/AI/NPC/IncrementPath] ([1] browsable assets)...
+[2020.10.28-18.16.14:563][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/CircleOfSalt/AI/NPC/IncrementPath]
+[2020.10.28-18.16.14:902][707]LogSavePackage: Moving '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/IncrementPath_Auto7205B65594A5ECCC42802EE84DB93D567.tmp' to '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/Autosaves/Game/CircleOfSalt/AI/NPC/IncrementPath_Auto7.uasset'
+[2020.10.28-18.16.14:905][707]LogFileHelpers: Auto-saving content packages took 0.342
+[2020.10.28-18.18.23:776][913]LogEditorTransaction: Undo Move Node
+[2020.10.28-18.18.27:317][ 51]LogEditorTransaction: Undo Move Node
+[2020.10.28-18.18.27:796][ 62]LogEditorTransaction: Undo Delete current selection
+[2020.10.28-18.19.39:831][684]LogEditorTransaction: Undo Add Node
+[2020.10.28-18.21.03:742][273]BlueprintLog: New page: Compile IncrementPath
+[2020.10.28-18.21.03:831][273]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.10.28-18.21.53:580][499]Cmd: TRANSACTION UNDO
+[2020.10.28-18.21.53:580][499]LogEditorTransaction: Undo Move Actors
+[2020.10.28-18.21.59:992][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.28-18.22.31:437][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2020.10.28-18.22.34:105][631]Cmd: TRANSACTION UNDO
+[2020.10.28-18.22.34:105][631]LogEditorTransaction: Undo Move Actors
+[2020.10.28-18.22.34:902][632]Cmd: TRANSACTION UNDO
+[2020.10.28-18.22.34:941][632]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.28-18.22.35:648][646]Cmd: TRANSACTION UNDO
+[2020.10.28-18.22.35:648][646]LogEditorTransaction: Undo Move Actors
+[2020.10.28-18.22.36:713][676]Cmd: TRANSACTION UNDO
+[2020.10.28-18.22.36:713][676]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.28-18.23.08:709][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.28-18.23.24:477][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.28-18.23.48:038][628]LogEditorViewport: Clicking on Actor (LMB): Patrol_Path_C (Patrol_Path)
+[2020.10.28-18.24.14:059][518]Cmd: TRANSACTION UNDO
+[2020.10.28-18.24.14:059][518]LogEditorTransaction: Undo Move Actors
+[2020.10.28-18.25.50:014][924]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.28-18.26.01:255][265]LogEditorViewport: Clicking on Actor (LMB): Patrol_Path_C (Patrol_Path)
+[2020.10.28-18.27.05:961][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.10.28-18.27.06:909][334]LogSavePackage: Moving '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/ThirdPersonExampleMap9EA4764542AA109CCA47A7B79470FBA2.tmp' to '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.28-18.27.09:394][334]LogSavePackage: Moving '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Saved/ThirdPersonExampleMap_BuiltData3560F376499034B39C3AD8B63F890663.tmp' to '../../../../../../Users/twine/OneDrive/Desktop/Circle Of Salt/Boisvert-ENT3320-Fall2020/CircleOfSalt/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.28-18.27.09:557][334]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-18.27.09:557][334]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.28-18.27.09:558][334]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.10.28-18.28.46:581][101]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.10.28-18.28.49:084][101]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.10.28-18.28.51:584][101]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
