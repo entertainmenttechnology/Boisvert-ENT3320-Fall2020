@@ -1,0 +1,302 @@
+Name,Conversation_ID,NPC_Name,Dialogue_Text
+1,1,Aki,"Now where are you heading to, Zeno?"
+2,2,Aki ,This place has been shut down ever since Brooklyn became a server haven. What business does he have in there?
+3,3,Rebel 1,"Your mission will be located on the first floor training city to your left, Zeno."
+4,3,Zeno,"Alright, thank you."
+5,4,Zeno,"Okay, let's get to work."
+6,5,Aki,"(There are guards in the front. Should I try asking to go in, or find another way?)"
+7,6,Rebel 1,Do you have any business here?
+8,6,Aki ,"I saw someone else enter, why can’t I?"
+9,6,Rebel 2,You can’t enter with us here. Get lost.
+10,6,Aki,"Chill, alright. (No need to be so aggressive...)"
+11,6,Aki,(I need to find a way around them.)
+12,7,Aki,(This door is locked. Nothing but a good hack can help me bypass it.)
+13,8,Aki,"(Lightwork. Now, where could Zeno be?)"
+14,9,Aki,(Hold on... are those voices?)
+15,9,Rebel 3,Have you seen the training facility on the first floor? We should go.
+16,9,Rebel 4,Zeno has a training session there right now. Let’s go later.
+17,9,Rebel 3,"Okay, cool."
+18,9,Aki,(So that’s where he’s at…)
+19,10,Aki,"That was amazing, how were you able to do that?"
+20,10,Zeno,What are you doing here? You being here is putting us at risk.
+21,10,Aki,...What are you talking about?
+22,11,Huicq,"Aki, it’s been so long. How’d you get in here?"
+23,11,Aki,"I used the door on the right. It was locked, but y’all security is trash."
+24,11,Huicq,Oho!
+25,11,Huicq,"Alright Aki, I need you to answer this whole heartedly, no lies, no deceit. "
+26,11,Huicq,"If you want to leave, or if we don’t like your answers, we can just go back to being normal. You’ll forget everything."
+27,14,Huicq,"Now tell me: which one to you means ""bewildered""?"
+28,15,Huicq,Which one shows a narrow mind?
+29,16,Huicq,Which one shows discrimination?
+30,17,Huicq,"Your heart is pure, Aki. You have strong will and talent."
+31,17,Huicq,"Even after we showed you the truths of the world, you haven’t shown any fear at all. "
+32,17,Huicq,"Aki, will you be a part of the war? Will you be our comrade?"
+33,18,Aki,"Yes, I’m in. I’ll be fighting for the greater cause."
+34,18,Zeno,This will be rather interesting.
+35,18,Huicq,Let’s get her started. 
+36,18,Huicq,Just remember that there is no rush. You are the embodiment of your own choices. 
+37,18,Huicq,The choices you make have weight. Never forget that.
+38,19,Aki,Maybe. I’ll have to put some thought into this. All of this info is overwhelming.
+39,19,Huicq,There's no rush. You are the embodiment of your own choices. The choices you make have a weight to it. Never forget that.
+40,19,Huicq,The choices you make have weight. Never forget that.
+41,19,Huicq,"Aki and Zeno, you’ll both be heading towards the windy city, also known as Chicago."
+42,19,Huicq,Chicago didn’t undergo the Techno Revolution so there still stuck as if it was still 2020. 
+43,19,Huicq,"When you get to the city, you’ll be looking for the Faction Leader of the Children of Eris. Her name is Angela Baker. "
+44,19,Huicq,You’ll get there using our teleportation device. 
+45,19,Huicq,She’ll be giving you the details once you arrive at the base. 
+46,19,Huicq,Good luck out there.
+47,21,Guard 1,"Hey, dem kids over there is gonna be on their deathbed soon?"
+48,21,Guard 2,"Yeah that sounds like a death trap knowing that there are traps within the area
+"
+49,21,Guard 2,Yo put me on
+50,21,Guard 1 ,That man Huicq be acting mad dumb bro.
+51,21,Guard 1,Like who sends their mans into a death trap like that.
+52,21,Guard 2,"I’ma keep it a buck with you,them kids better scout before their ass gets finished.."
+53,22,Zeno,Angela Baker?
+54,22,Angela,Archie from Riverdale??
+55,22,Aki,"Haha, that reference is spot on."
+56,22,Angela,"You're not slick, with your fufu ass beats."
+57,22,Zeno,(Smirks)
+58,22,Zeno,Huicq sent us here to-
+59,22,Angela,"That Chicago is the epicenter for shipment from across the world. That only means one thing, they've got the good shit."
+60,22,Angela,"From ArgBots, to Dragon Drones to Bio Weaponry. Yous are going to snag those supplies for us."
+61,22,Aki,"...That's not right, we shouldn't be stealing from the government."
+62,22,Angela,"I don’t wanna hear none of that hero shit, you don’t know what we’ve dealt with throughout tha years. "
+63,22,Angela,THE GOV DON’T FUND US AND THEY NEVER HAVE.
+64,22,Angela,WE ARE A COMMUNITY THAT RELIES ON EACH OTHAS BACK. 
+65,22,Aki,"BUT YOU DON’T NEED TO FIGHT FIRE WITH FIRE, WE’LL BE STEPPING DOWN TO THEIR LEVEL!"
+66,22,Zeno,"Everyone, calm down."
+67,22,Aki,*INHALING EXHALING SOUNDS*
+68,22,Aki,"Listen I’m here to help, I’ll fight but in my own way, "
+69,22,Aki,I won’t succumb to those low level tactics. 
+70,22,Aki,"You need me, however, I don’t need you. I’m not about to change my ideals over a thieving fox."
+71,22,Angela,*SCOFFS* hahahahahahaahaaha
+72,22,Angela,"Shit, your mind is living a fairytale but you already know that. "
+73,22,Angela,The people of Chicago and I have made it this far because of this ruthless mentality. 
+74,22,Angela,We one up this bullshit ass Jagoff each time to the point of them knowing who I am and what I’m capable of. 
+75,22,Angela,"Now Aki, look around you, I did this. "
+76,22,Angela,"Do what you want, but you’ll never achieve anything great with that mindset."
+77,22,Aki,"The people of Chicago don’t want this lifestyle, everything would’ve changed if yo -"
+78,22,Angela,A birdie told me that there will be Techno Weaponry inside one of the shipment crates. 
+79,22,Angela,Think of what we can do with that shit in our arsenal. This is how we will go about the sitch.
+80,23,Aki,I still don't think this is right Zeno.
+81,23,Zeno,"She's the leader, my father told us to do what we are told. Although, her actions are suspicious."
+82,23,Aki,I know... but this doesn't sit right with me. This isn't what I expected when I came over here.
+83,23,Zeno,"Let's just get this mission over with, let's go."
+84,24,Zeno,We're in.
+85,24,Angela,"Good shit, I guess yous are some useful scrubs. Okay, there shouldd be some bullshit coming up. Handle that."
+86,24,Aki,I still don't believe that we should be thieving foxes.
+87,24,Angela,Can't you get this through your thick skull.
+88,25,Aki,"Zeno, inside of that crate, there should be one of the items we're looking for. Although, someone is guarding it."
+89,25,Aki,There's a few in that general direction. I'll tell you where exactly.
+90,26,Zeno,I'm going in.
+91,27,Zeno,"Aki, come down here."
+92,28,Aki,I'll tell Angela.
+93,28,Zeno,Weren't you against us stealing from the government.
+94,28,Aki,"I still am, however, I won't tolerate the use of bio weaponry against people, whether they're working for the Gov or not."
+95,28,Aki,"Angela, we've located the shipment."
+96,28,Aki,"Ahh, you've turned over a new leaf. This is da mindset you need to survive in this bullshit ass world."
+97,28,Angela,"Bring it back to the base. Oooo, shit, I'm getting excited now."
+98,29,Angela,"Oooo, yess, I've been waiting ma long for this."
+99,30,Angela,You've got to be f...
+100,31,Angela,"Alright, after chilling for a while. I'm good now, so I have ya next mission. Ya have to head to priviledged Sillicon Valley."
+101,32,Aki,"Zeno, I can't accept these terms. This is blasphemy, I'm fighting for freedom but I won't stoop down to Government level."
+102,32,Aki,I was raised better than that.
+103,32,Zeno,We can't just jeopardize the mission off of your morals. 
+104,32,Aki,"My morals? That woman's morals are depriving, I can't continue working with her when she's just as appalling as the Gov."
+105,33,Zeno,Do what you want. I won't be put in between this cat fight.
+106,34,Aki,"Angela, the weapons are damaged. What should we do?"
+107,34,Angela,"Shit, alright. Dip from there, we'll discuss our plan of action at the base."
+108,35,Angela,"Alright, it's no surprise that I'm disappointed but... I'm disappointed."
+109,35,Zeno,(Because of what Aki did to those weapons...)
+110,35,Aki,I preferred this option so I don't mind it at all.
+111,35,Angela,"Wait, I've got a serious question. Who asked you?"
+112,35,Aki,(She makes my blood boil.)
+113,35,Aki,Stealing and killing makes us look  as if we are the monsters. That is if we had those weapons-
+114,35,Angela,This girl just can't keep her mouth shut. This conversation is over because we'll be getting nowhere.
+115,36,Angela,We'll manage with what we've got. I have ya next mission. Ya have to head to the priveledged land of Sillicon Valley.
+116,36,Angela,"Yous will meet our inventor and leader of the Y8tes, Dr. Weiner. He'll explain your next mission."
+117,37,Rebel 1,These ops are sus not gonna lie
+118,37,Rebel 2,Sure thing. All I know is that we gotta go by that area overthere.
+119,37,Rebel 1,Well first thing is that we gon need to establish what items we need. Best to keep checkin the list she gave us
+120,37,Rebel 2,Does it Matter?
+121,37,Rebel 1,It depends on how long we decide to stay doing the mission. Who knows the longer we are the benefits of helping out the base.
+122,38,Secret Rebel,Hey Aki and Zeno what's new?!
+123,38,Secret Rebel,"Oh that's cool and all. However, You guys do know that I am an ex-Goverment worker right?"
+124,38,Secret Rebel,"Well, you see the leader is very picky on who she wants on her team for the tech branch. However, from what I heard she’s a very strict and antsy person. Some even said that if things don’t go her way then she takes it out on others."
+125,39,Aki,"I've never been to Cali before, look at how different the people are!"
+126,39,Zeno,"Compared to Brooklyn, there's people everywhere with those enhancements."
+127,39,Aki,Angela called the people here Shellheads
+128,39,Zeno,What's that?
+129,39,Aki,People with cybernetic implants. It's supposed to be offensive since they're walking technology parts.
+130,39,Zeno,Shouldn't have asked...
+131,39,Aki,"Anyways, I wonder who this Dr. Weiner is."
+132,39,Zeno,He's the reaason that we are able to fight in this battle.
+133,39,Aki,He invented a device that prevents any form of brainwashing that the government provides.
+134,39,Zeno,He sounds incredible. How was he able to do it?
+135,39,Aki,"We'll find out soon, we should be seeing him soon."
+136,40,Dr. Weiner,"Welcome kiddos, I'm ready to provide the operation you two will be finalizing today."
+137,40,Dr. Weiner,Upstairs is the medical facilty that is overrun by the government.
+138,40,Zeno,"They've acquired a substantial amount of Personalized Biosphere Shields, however, it's not being shared with the people properly."
+139,40,Dr. Weiner,"Now, what do the two of you think when I say something like that? Hm."
+140,40,Zeno,There is something embedded inside of the Personalized Biosphere Shields?
+141,40,Dr. Weiner,"Mmm, and you, what do you believe dear?"
+142,40,Aki,"Huicq mentioned it, I presume it's about the Shields having a brainwashing effect and we'll need a Plasmic Integrated thingy..."
+143,40,Dr. Weiner,Plasmic Integrated Viral Ward. Both are fantastic answers. Come with me you two.
+144,41,Dr. Weiner,"The PBS are in the Medical Facilty upstairs. You guys entered through the hidden teleporter in the parking lot, correct?"
+145,41,Aki,Yes
+146,41,Zeno,Yes
+147,41,Dr. Weiner,"Fantastic, so that area is how you'll be sneaking around to enter the base. Once you're in the base, you'll follow this path."
+148,41,Dr. Weiner,"That's where the PBS are located. Once you've secured the supplieds, bring them back to me."
+149,41,Dr. Weiner,"I have faith in the two of you, good luck."
+150,42,World,Removes the headset
+151,42,Patient,SCREAMS
+152,42,Aki,"Shh, it's okay, it's okay."
+153,42,Zeno,Be quiet
+154,42,Aki,You're in a better place.
+155,42,Patient,"I want to go back to that world, this world sucks."
+156,42,Patient,My parents were killed when a group of Cybernetic Enhanced People stormed our house with no intentions but to kill...
+157,42,Patient,I was sent to an orphanage after the incident.
+158,42,Patient,Us kids from the Orphanage were taken to this hospital for multiple studies. We were guinea pigs and still are.
+159,42,Patient,Crying
+160,42,Patient,"I...miss...them so much, I get to see them in the other world I was in. This world is nothing but despair. My heart aches every time I think about them."
+161,42,Patient,"why, Why, WHy, WHY WAS I LEFT BEHIND!"
+162,42,Patient,"I miss mom's lullabies, I miss them so much."
+163,42,Aki,Your dad and mom wouldn't want to see you like this.
+164,42,Zeno,They'll want to see you strive with your head up.
+165,42,Aki,"They would want you to survive. Yeah, the world sucks right now but there's people out trying to make a change. We are one of those people."
+166,42,Patient,What do you mean by change?
+167,42,Zeno,We're going to overthrow the government and make our country a better place to live. You'll be out there with no restrictions.
+168,42,Aki,You can live life with a smile on your face. You'll be able to be whatever you want to be.
+169,42,Aki,"Stay positive, that's what your parents would want you to do."
+170,42,Patient,"Please, for us."
+171,42,Zeno,"Trust us, for everyone."
+172,42,Aki,"We'll pick you up on our way back, don't worry."
+173,42,Patient,Thank you.
+174,43,Aki,He's probably led a difficult life. You're in a better place now.
+175,43,Zeno,"No one should go through this pain, this is blasphemy. The person behind all of this has no heart."
+176,43,Aki,"This is why we are fighting, for the sake of not only ourselves but others."
+177,43,Zeno,Let's leep looking for the PBS.
+178,44,Dr. Weiner,"You're within reach to the PBS, there's securiy all around the area, work your craft."
+179,45,Zeno,The shields are here.
+180,45,Dr. Weiner,Fetch them and bring them back to the base.
+181,46,Dr. Weiner,Welcome back. Place the shields on the table over there.
+182,46,World,Place shield down
+183,47,World,Booting Up Sound
+184,47,Aki,"You're really good, how do you know so much about the PBS?"
+185,47,Dr. Weiner,Being the originator of this monstrosity...
+186,48,Aki,I appreciate everything you've done for this group and the people around you.
+187,48,Zeno,We're grateful for what you've done. You've saved the world and you're helping the world right now.
+188,48,Dr. Weiner,"I appreciate your opinnions kids but nothing can change my mind. Once we're saved, I'll celebrate."
+189,48,Dr. Weiner,"Now, your next mission will be rather difficult."
+190,48,Dr. Weiner,It's not my type of style but it's what we'll have to do for the sake of this country.
+191,48,Dr. Weiner,"Head to Manhattan, you'll meet Hordin Morales, the leader of Bello-Techno. Take care and remain safe."
+192,48,Aki,Yes
+193,48,Zeno,Yes
+194,49,Dr. Weiner,(They're too young to be asssigned such a task. I wish the best of luck to everyone. Our fight isn't over.)
+195,50,Rebel 1,Man this area is truly filled with government agents everywhere.
+196,50,Rebel 2, I’m guessing this is now our society over here. Best to keep our heads down.
+197,50,Rebel 1 ,Yeah. If we are spotted by the government we are fucked. 
+198,50,Rebel 2,"Keep a low profile and make sure you are not spotted. If so, then we are done for."
+199,51,Senior Rebel,Yo Kids!
+200,52,Aki ,Not now we are on the move
+201,53,Aki ,Hey whats up
+202,53,Senior Rebel,"Good to know that the things in Chicago went well. Look, that leader I told you guys about."
+203,53,Senior Rebel,Well I just got word from my old mates that the acts we did in chicago truly ruffled up her feathers. 
+204,53,Senior Rebel,"But hearing that we made an impact on her might bite us back on our asses. So keep an eye out."
+205,54,Aki,"There's so many of us for this raid, do you think we need this many people?"
+206,54,Zeno,"We need this, we can't mess this up. THe fate of our country is in stake."
+207,54,Aki,"Yeah... hopefully, everything goes well!"
+208,55,Hordin,Make haste and prepare the Stealth wear.
+209,55,World,Turns on Stealth Wear
+210,55,Huicq,"Zeno and a few of others, you're with me, we'll clear the path for Bello-Techno."
+211,55,Zeno,Yes sir.
+212,55,Hordin,"Novice, you're with us, we'll help the bypass through any obstacles that come their way."
+213,56,Hordin,"We're approaching our destination, it's heavily guarded, take em out so we can go inside."
+214,56,Huicq,"Understood, let's do what we do best."
+215,57,Huicq,Guard the door comrades.
+216,57,Huicq,"Zeno, you've got to keep watch as well."
+217,58,Aki,"Top secret, what is this??"
+218,58,Hordin,"Looks important, gather whatever we can and let''s get out of here."
+219,58,Hordin,I'll work on adding security measures for us just in case we're ambushed.
+220,58,Aki,Will do.
+221,59,Aki,"Come on Aki you can do this, you're good at what you know, and hacking is all you know."
+222,59,World,Red flashing lights with siren
+223,59,Computer,Multiple people detected in Sector 1 Hallway 25
+224,60,Huicq,"Finish the mission at all costs, no matter what happens to any of us, our humanity is at stake here."
+225,61,World,Typing on a keyboard
+226,61,Aki,"I'll save you Huicq, don't worry."
+227,62,Computer,Failed. Please Try Again...
+228,62,Aki,Why isn't working?
+229,62,World,Button Press
+230,62,Computer,Failed. Please Try Again...
+231,62,Computer,Failed. Please Try Again...
+232,62,Computer,Failed. Please Try Again...
+233,62,Aki,Why...Why...Why... Why is this happening?!?
+234,63,Huicq,"Finish the mission at all costs, no matter what happens to any of us, our humanity is at stake here."
+235,63,Aki,"I'm almost done Huicq, hang in there."
+236,64,Patricia,"Clean this up, find out who he is. We treat what happened here as nothing happened."
+237,64,Patricia,"We need to prepare for tracking the rest of these bugs, they're less spyware and more of a worm."
+238,64,Patricia,These maggotts need me to be pest control.
+239,65,Zeno,Where's my father?
+240,65,Zeno,WHERE IS HE?!?
+241,65,Hordin,He was murdered... We have to get out of here before anything goes wrong.
+242,65,Zeno,Dad...
+243,66,Rebel 1,Don’t know bout you but something off here.
+244,66,Rebel 2,How so? We got everything. That raid was mad easy.
+245,66,Rebel 1,I know but that's the thing. That raid “was”mad easy.  Keep your guard up. Shit is coming.
+246,67,Senior Rebel,Hey Zeno. Aki!
+247,67,Aki ,Not now old timer.
+248,67,Aki  ,"Hey,old timer whats up"
+249,67,Senior Rebel,-Look. Remember what I told you that that leader I told you I had. .
+250,67,Senior Rebel,"Well let’s just say. From what I heard, things are about to go bat shit crazy. Keep your guard up"
+251,67,Aki,
+252,67,Senior Rebel,I don’t know. But something is happening. Just being in here and the tension in the air feels just like her.
+253,68,Aki,"(The Pentagon is massive, is there a need for this many rooms.)"
+254,68,Zeno,(The amount of guards in here seems endless. I turn the corner and there's another guard there.)
+255,69,Aki,"Zeno, take out the guards guarding that room. Akasha is in there."
+256,69,Zeno,Already thinking ahead of you.
+257,70,Aki,This is it. Our year long goal is behind this door.
+258,70,Zeno,"Father will be proud of what we accomplish today, no more standinng around."
+259,70,Zeno,Go in there and gather the information Aki.
+260,70,Aki,"Someone's taking the leadership role to the heart, will do."
+261,71,Aki,I'm in.
+262,71,Zeno,"Great, get what you can and let's get out of here."
+263,71,Zeno,Aki?? Aki?? Are you there??
+264,71,Aki,"I'm in disbelief, the information in the Akasha, it's all of us."
+265,71,Zeno,What do you mean?
+266,71,Aki,"They have information on everyone in this country, strengths, weaknesses, what they brainwashed them on and more."
+267,71,Zeno,"Getting information like that will definitely put Eu-Topos Imperium in a blunder. If not, completely shut them down. "
+268,71,Aki,"I can upload everything we have from here, this will take the world by storm."
+269,71,Zeno,"Do that, I'll continue to keep watching the area."
+270,72,Aki,"Everyone, we've completed the mission. Everyone should be coming back to their senses."
+271,73,Patrcia,WHAT DID YOU DO?!?
+272,73,Aki,WHAT DID I DO?!? WHAT DID YOU DO TO HUMANITY?!?
+273,74,Patrcia,"You stupid neanderthal, tech was the answer. Tech was our hope to finally uniting this forsaken world.0"
+274,74,Emotion,What is wrong with you!
+275,74,Patrcia,"Me,Me!! I was the prophet to the people. I was their shepherd. You don't know sheep they are sheep, you lead them and feed."
+276,74,Patrcia,Never open their curiousity to think more.
+277,74,Patrcia,My chauvinistic heart led me to save them. The AI President and Akasha were my brainchild to these fools.
+278,74,Aki,"We saved people, your hope was in tech."
+279,74,Aki,Mine was in humanity.
+280,74,Aki,"Since the beginning of times, we have defied the odds to make it here."
+281,74,Patrcia,Then save me.
+282,74,Emotion,Looks confused with disgust on her face
+283,74,Patrcia,"Tech was saving us, without it we are doomed you addlebrains. Put me out my misery, do it you dam hero."
+284,75,Emotion,Screams
+285,75,Aki,"You took away my best friend's father, you took away someone who was looked up to by everyone all around."
+286,75,Aki,"Someone who deserved better than to be shot by the master and her dogs. You're dead to me, go to hell..."
+287,76,Zeno,WHAT DID YOU DO?!?
+288,76,Aki,Become a monster...
+289,77,Aki,I hope everyone is okay.
+290,78,Aki,I'm fighting for freedom but I won't stoop down to the level of the Government.
+291,79,Zeno,What are you doing Aki?
+292,79,Aki,Being the bigger person
+293,79,Zeno,This is my father's killer?
+294,79,Zeno,Yes
+295,79,Patrcia,"Look at you, a cretin just like your father."
+296,79,Aki,"ZENO, STOP!"
+297,79,World,Smack
+298,79,Zeno,My father wouldn't want us to kill her...
+299,79,Aki,Yeah...
+300,79,Aki,"I hope you get the help you need, I'm gonna show the world that humanity is not the slave to tech but it's master."
