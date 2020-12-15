@@ -25,33 +25,33 @@ Name,Conversation_ID,NPC_Name,Dialogue_Text
 24,11,Huicq,Oho!
 25,11,Huicq,"Alright Aki, I need you to answer this whole heartedly, no lies, no deceit. "
 26,11,Huicq,"If you want to leave, or if we don’t like your answers, we can just go back to being normal. You’ll forget everything."
-27,14,Huicq,"Now tell me: which one to you means ""bewildered""?"
-28,15,Huicq,Which one shows a narrow mind?
-29,16,Huicq,Which one shows discrimination?
-30,17,Huicq,"Your heart is pure, Aki. You have strong will and talent."
-31,17,Huicq,"Even after we showed you the truths of the world, you haven’t shown any fear at all. "
-32,17,Huicq,"Aki, will you be a part of the war? Will you be our comrade?"
-33,18,Aki,"Yes, I’m in. I’ll be fighting for the greater cause."
-34,18,Zeno,This will be rather interesting.
-35,18,Huicq,Let’s get her started. 
-36,18,Huicq,Just remember that there is no rush. You are the embodiment of your own choices. 
-37,18,Huicq,The choices you make have weight. Never forget that.
-38,19,Aki,Maybe. I’ll have to put some thought into this. All of this info is overwhelming.
-39,19,Huicq,There's no rush. You are the embodiment of your own choices. The choices you make have a weight to it. Never forget that.
-40,19,Huicq,The choices you make have weight. Never forget that.
-41,19,Huicq,"Aki and Zeno, you’ll both be heading towards the windy city, also known as Chicago."
-42,19,Huicq,Chicago didn’t undergo the Techno Revolution so there still stuck as if it was still 2020. 
-43,19,Huicq,"When you get to the city, you’ll be looking for the Faction Leader of the Children of Eris. Her name is Angela Baker. "
-44,19,Huicq,You’ll get there using our teleportation device. 
-45,19,Huicq,She’ll be giving you the details once you arrive at the base. 
-46,19,Huicq,Good luck out there.
-47,21,Guard 1,"Hey, dem kids over there is gonna be on their deathbed soon?"
-48,21,Guard 2,"Yeah that sounds like a death trap knowing that there are traps within the area
+27,-1,Huicq,"Now tell me: which one to you means ""bewildered""?"
+28,-1,Huicq,Which one shows a narrow mind?
+29,-1,Huicq,Which one shows discrimination?
+30,12,Huicq,"Your heart is pure, Aki. You have strong will and talent."
+31,12,Huicq,"Even after we showed you the truths of the world, you haven’t shown any fear at all. "
+32,12,Huicq,"Aki, will you be a part of the war? Will you be our comrade?"
+33,-1,Aki,"Yes, I’m in. I’ll be fighting for the greater cause."
+34,13,Zeno,This will be rather interesting.
+35,13,Huicq,Let’s get her started. 
+36,13,Huicq,Just remember that there is no rush. You are the embodiment of your own choices. 
+37,13,Huicq,The choices you make have weight. Never forget that.
+38,-1,Aki,Maybe. I’ll have to put some thought into this. All of this info is overwhelming.
+39,14,Huicq,There's no rush. You're the embodiment of your own choices.
+40,14,Huicq,The choices you make have weight. Never forget that.
+41,14,Huicq,"Aki and Zeno, you’ll both be heading towards the windy city, also known as Chicago."
+42,14,Huicq,Chicago didn’t undergo the Techno Revolution so there still stuck as if it was still 2020. 
+43,14,Huicq,"When you get to the city, you’ll be looking for the Faction Leader of the Children of Eris. Her name is Angela Baker. "
+44,14,Huicq,You’ll get there using our teleportation device. 
+45,14,Huicq,She’ll be giving you the details once you arrive at the base. 
+46,14,Huicq,Good luck out there.
+47,15,Guard 1,"Hey, dem kids over there is gonna be on their deathbed soon?"
+48,15,Guard 2,"Yeah that sounds like a death trap knowing that there are traps within the area
 "
-49,21,Guard 2,Yo put me on
-50,21,Guard 1 ,That man Huicq be acting mad dumb bro.
-51,21,Guard 1,Like who sends their mans into a death trap like that.
-52,21,Guard 2,"I’ma keep it a buck with you,them kids better scout before their ass gets finished.."
+49,15,Guard 2,Yo put me on
+50,15,Guard 1 ,That man Huicq be acting mad dumb bro.
+51,15,Guard 1,Like who sends their mans into a death trap like that.
+52,15,Guard 2,"I’ma keep it a buck with you,them kids better scout before their ass gets finished.."
 53,22,Zeno,Angela Baker?
 54,22,Angela,Archie from Riverdale??
 55,22,Aki,"Haha, that reference is spot on."
@@ -120,14 +120,15 @@ Name,Conversation_ID,NPC_Name,Dialogue_Text
 118,37,Rebel 2,Sure thing. All I know is that we gotta go by that area overthere.
 119,37,Rebel 1,Well first thing is that we gon need to establish what items we need. Best to keep checkin the list she gave us
 120,37,Rebel 2,Does it Matter?
-121,37,Rebel 1,It depends on how long we decide to stay doing the mission. Who knows the longer we are the benefits of helping out the base.
+121,37,Rebel 1,"It depends on how long we decide to stay doing the mission. Who knows, the longer, the better."
 122,38,Secret Rebel,Hey Aki and Zeno what's new?!
 123,38,Secret Rebel,"Oh that's cool and all. However, You guys do know that I am an ex-Goverment worker right?"
-124,38,Secret Rebel,"Well, you see the leader is very picky on who she wants on her team for the tech branch. However, from what I heard she’s a very strict and antsy person. Some even said that if things don’t go her way then she takes it out on others."
-125,39,Aki,"I've never been to Cali before, look at how different the people are!"
-126,39,Zeno,"Compared to Brooklyn, there's people everywhere with those enhancements."
-127,39,Aki,Angela called the people here Shellheads
-128,39,Zeno,What's that?
+124,38,Secret Rebel,"Well, you see the leader is very picky on who she wants on her team for the tech branch. I heard she's very strict."
+125,38,Secret Rebel,Some even said that if things don’t go her way then she takes it out on others.
+126,39,Aki,"I've never been to Cali before, look at how different the people are!"
+127,39,Zeno,"Compared to Brooklyn, there's people everywhere with those enhancements."
+128,39,Aki,Angela called the people here Shellheads
+129,39,Zeno,What's that?
 129,39,Aki,People with cybernetic implants. It's supposed to be offensive since they're walking technology parts.
 130,39,Zeno,Shouldn't have asked...
 131,39,Aki,"Anyways, I wonder who this Dr. Weiner is."
@@ -141,12 +142,13 @@ Name,Conversation_ID,NPC_Name,Dialogue_Text
 139,40,Dr. Weiner,"Now, what do the two of you think when I say something like that? Hm."
 140,40,Zeno,There is something embedded inside of the Personalized Biosphere Shields?
 141,40,Dr. Weiner,"Mmm, and you, what do you believe dear?"
-142,40,Aki,"Huicq mentioned it, I presume it's about the Shields having a brainwashing effect and we'll need a Plasmic Integrated thingy..."
+142,40,Aki,"Huicq mentioned it, I presume it's about the Shields having a brainwashing effect and we'll need a Plasmic Integrated crap"
 143,40,Dr. Weiner,Plasmic Integrated Viral Ward. Both are fantastic answers. Come with me you two.
 144,41,Dr. Weiner,"The PBS are in the Medical Facilty upstairs. You guys entered through the hidden teleporter in the parking lot, correct?"
 145,41,Aki,Yes
 146,41,Zeno,Yes
-147,41,Dr. Weiner,"Fantastic, so that area is how you'll be sneaking around to enter the base. Once you're in the base, you'll follow this path."
+147,41,Dr. Weiner,"Fantastic, so that area is how you'll be sneaking around to enter the base. "
+,,,"Once you're in the base, you'll follow this path."
 148,41,Dr. Weiner,"That's where the PBS are located. Once you've secured the supplieds, bring them back to me."
 149,41,Dr. Weiner,"I have faith in the two of you, good luck."
 150,42,World,Removes the headset
@@ -159,14 +161,15 @@ Name,Conversation_ID,NPC_Name,Dialogue_Text
 157,42,Patient,I was sent to an orphanage after the incident.
 158,42,Patient,Us kids from the Orphanage were taken to this hospital for multiple studies. We were guinea pigs and still are.
 159,42,Patient,Crying
-160,42,Patient,"I...miss...them so much, I get to see them in the other world I was in. This world is nothing but despair. My heart aches every time I think about them."
+160,42,Patient,"I...miss...them so much, I get to see them in the other world I was in. This world is nothing but despair. "
+,,,My heart aches every time I think about them.
 161,42,Patient,"why, Why, WHy, WHY WAS I LEFT BEHIND!"
 162,42,Patient,"I miss mom's lullabies, I miss them so much."
 163,42,Aki,Your dad and mom wouldn't want to see you like this.
 164,42,Zeno,They'll want to see you strive with your head up.
-165,42,Aki,"They would want you to survive. Yeah, the world sucks right now but there's people out trying to make a change. We are one of those people."
+165,42,Aki,They would want you to survive. 
 166,42,Patient,What do you mean by change?
-167,42,Zeno,We're going to overthrow the government and make our country a better place to live. You'll be out there with no restrictions.
+167,42,Zeno,We're going to overthrow the government and make our country a better place to live. You'll be out there free.
 168,42,Aki,You can live life with a smile on your face. You'll be able to be whatever you want to be.
 169,42,Aki,"Stay positive, that's what your parents would want you to do."
 170,42,Patient,"Please, for us."
@@ -274,7 +277,7 @@ Name,Conversation_ID,NPC_Name,Dialogue_Text
 272,73,Aki,WHAT DID I DO?!? WHAT DID YOU DO TO HUMANITY?!?
 273,74,Patrcia,"You stupid neanderthal, tech was the answer. Tech was our hope to finally uniting this forsaken world.0"
 274,74,Emotion,What is wrong with you!
-275,74,Patrcia,"Me,Me!! I was the prophet to the people. I was their shepherd. You don't know sheep they are sheep, you lead them and feed."
+275,74,Patrcia,"Me,Me!! I was the prophet to the people. I was their shepherd. Sheeps are sheep, you lead and feed them."
 276,74,Patrcia,Never open their curiousity to think more.
 277,74,Patrcia,My chauvinistic heart led me to save them. The AI President and Akasha were my brainchild to these fools.
 278,74,Aki,"We saved people, your hope was in tech."
